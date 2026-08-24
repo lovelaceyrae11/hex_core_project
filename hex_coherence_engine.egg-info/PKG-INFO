@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: hex-coherence-engine
+Version: 0.1.0
+Summary: Hexagonal phase-coherence consensus engine
+Author: Lacey Rae Castleberry (Velath'kai)
+License-File: LICENSE
+Requires-Dist: matplotlib
+Requires-Dist: networkx
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

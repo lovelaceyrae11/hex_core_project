@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+hex_coherence_engine.egg-info/PKG-INFO
+hex_coherence_engine.egg-info/SOURCES.txt
+hex_coherence_engine.egg-info/dependency_links.txt
+hex_coherence_engine.egg-info/requires.txt
+hex_coherence_engine.egg-info/top_level.txt
